@@ -274,4 +274,4 @@ function App() {
           <button
             className="ghost"
             onClick={() => setDark(!dark)}
-            title="
+            title="Translate"
